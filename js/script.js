@@ -2,7 +2,7 @@
  * Created by Liza on 23.12.2015.
  */
 
-var str ="footer>div>footer>span*2+header>div*2>span";
+var str ="header>div>span*2+footer>div*3>span";
 /*var arrTag =['div','span','header','footer'];*/
 var arrOpen =['<div>','<span>','<header>','<footer>'];
 var arrClose =['</div>','</span>','</header>','</footer>'];
